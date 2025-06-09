@@ -7,3 +7,6 @@
 [submodule "DOCUMENT"]
 	path = DOCUMENT
 	url = https://github.com/Ryan892000/DOCUMENT.git
+[submodule "LIBRARYREPS"]
+	path = LIBRARYREPS
+	url = https://github.com/Ryan892000/LIBRARYREPS.git
