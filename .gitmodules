@@ -4,3 +4,6 @@
 [submodule "REPORT"]
 	path = REPORT
 	url = https://github.com/Ryan892000/REPORT.git
+[submodule "DOCUMENT"]
+	path = DOCUMENT
+	url = https://github.com/Ryan892000/DOCUMENT.git
