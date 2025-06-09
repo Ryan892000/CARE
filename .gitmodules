@@ -1,0 +1,6 @@
+[submodule "MODULE"]
+	path = MODULE
+	url = https://github.com/Ryan892000/MODULE.git
+[submodule "REPORT"]
+	path = REPORT
+	url = https://github.com/Ryan892000/REPORT.git
